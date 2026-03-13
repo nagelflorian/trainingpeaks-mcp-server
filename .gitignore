@@ -1,0 +1,14 @@
+.claude/
+node_modules/
+dist/
+build/
+*.log
+*.tmp
+*.cache
+.DS_Store
+.vscode/
+*.env
+*.env.local
+*.env.development
+*.env.test
+*.env.production
